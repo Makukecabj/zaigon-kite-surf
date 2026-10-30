@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951997149706",
-    "phone": "+54951997149706",
+    "whatsapp": "https://wa.me/51997149706",
+    "phone": "+51997149706",
     "email": ""
   },
   "social": {
@@ -372,7 +372,7 @@ window.__CONFIG = {
         "name": "Zaigon Kite Surf",
         "description": "Habitaciones cómodas y buena onda en Zaigon Kite Surf, Perú.",
         "url": "",
-        "telephone": "+54951997149706",
+        "telephone": "+51997149706",
         "email": "",
         "image": "",
         "sameAs": [
