@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zaigon-kite-surf.vercel.app/sitemap.xml

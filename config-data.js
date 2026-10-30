@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Zaigon Kite Surf",
+    "short_name": "Zaigon Kite Surf",
+    "tagline": "Zaigon Kite Surf · Perú",
+    "description": "Tu base en Zaigon Kite Surf para explorar Perú.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · playa el amor 124",
+    "title_line1": "Disfrutá de",
+    "title_em": "Zaigon Kite Surf",
+    "title_line2": "en Perú",
+    "subtitle": "Cerca de todo, con toda la vibra de Perú."
+  },
+  "location": {
+    "address": "playa el amor 124, Máncora 20851, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "beach",
+    "map_query": "playa el amor 124, Máncora 20851, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=playa+el+amor+124%2C+M%C3%A1ncora+20851%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. La ubicación ideal para tu viaje.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951997149706",
+    "phone": "+54951997149706",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Zaigon+Kite+Surf/data=!4m10!3m9!1s0x9036976433854f6b:0xfe816b7b2edb7192!5m2!4m1!1i2!8m2!3d-4.0981169!4d-81.0499154!16s%2Fg%2F11xd25cz9f!19sChIJa0-FM2SXNpARknHbLntrgf4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Zaigon+Kite+Surf/data=!4m10!3m9!1s0x9036976433854f6b:0xfe816b7b2edb7192!5m2!4m1!1i2!8m2!3d-4.0981169!4d-81.0499154!16s%2Fg%2F11xd25cz9f!19sChIJa0-FM2SXNpARknHbLntrgf4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Te contamos",
+    "title": "Un poco de Zaigon Kite Surf.",
+    "paragraphs": [
+      "En Zaigon Kite Surf vas a encontrar todo lo que necesitás para tu estadía en Perú: WiFi gratis, pileta, parrilla, cocina equipada y una ubicación ideal para recorrer la zona. Te esperamos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Disponibilidad actualizada al momento",
+    "Directo al hostel, sin comisiones",
+    "Te ayudamos a organizar tu viaje"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Todo para que descanses",
+      "description": "Camas buenas, ambiente tranquilo, a dormir tranquilo.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi que no falla",
+      "description": "Mandá audios, subí reels, todo funciona.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Ubicación ideal",
+      "description": "Cerca de lo que necesitás, lejos de lo que no.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    },
+    {
+      "author": "Rocío B.",
+      "rating": 5,
+      "text": "Todo perfecto: la limpieza, la atención y las recomendaciones de la gente del lugar. Diez puntos."
+    },
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Valentina P.",
+      "rating": 5,
+      "text": "El lugar es hermoso y está cerca de todo. Los anfitriones nos ayudaron con cada consulta."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Cuánto queda para la playa/centro?",
+      "answer": "A pocas cuadras, caminando llegás en 5 minutos."
+    },
+    {
+      "question": "¿Qué se puede hacer en la zona?",
+      "answer": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
+    }
+  ],
+  "footer": {
+    "description": "Zaigon Kite Surf",
+    "copyright": "© 2026 Zaigon Kite Surf. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Zaigon Kite Surf",
+        "short_name": "Zaigon Kite Surf",
+        "tagline": "Zaigon Kite Surf · Accommodation",
+        "description": "Zaigon Kite Surf, your ideal stay in Perú.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · playa el amor 124",
+        "title_line1": "Discover",
+        "title_em": "Zaigon Kite Surf",
+        "title_line2": "in Perú",
+        "subtitle": "Close to everything, right in the heart of Perú."
+      },
+      "about": {
+        "eyebrow": "Our story",
+        "title": "This is Zaigon Kite Surf.",
+        "paragraphs": [
+          "Zaigon Kite Surf awaits you in Perú with clean rooms, pool, BBQ, full kitchen and free WiFi. A quiet place to rest and from where you can explore the whole area."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. Your starting point to explore."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there a kitchen to use?",
+          "answer": "Yes, a full kitchen so you can cook whatever you want."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Is there WiFi?",
+          "answer": "Yep, free WiFi everywhere. Upload your stories without worry."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is it close to the beach?",
+          "answer": "Message us and we'll tell you exactly how far the beach is from here."
+        }
+      ],
+      "trust_bar": [
+        "WhatsApp for everything",
+        "Real prices, no fine print",
+        "Travelers from all over have stayed with us"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        }
+      ],
+      "footer": {
+        "description": "Zaigon Kite Surf",
+        "copyright": "© 2026 Zaigon Kite Surf. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Zaigon Kite Surf",
+        "description": "Habitaciones cómodas y buena onda en Zaigon Kite Surf, Perú.",
+        "url": "",
+        "telephone": "+54951997149706",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Zaigon+Kite+Surf/data=!4m10!3m9!1s0x9036976433854f6b:0xfe816b7b2edb7192!5m2!4m1!1i2!8m2!3d-4.0981169!4d-81.0499154!16s%2Fg%2F11xd25cz9f!19sChIJa0-FM2SXNpARknHbLntrgf4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "playa el amor 124, Máncora 20851, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Todo para que descanses",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi que no falla",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Ubicación ideal",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto queda para la playa/centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pocas cuadras, caminando llegás en 5 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué se puede hacer en la zona?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
